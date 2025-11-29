@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-design-using-tailwind-css-nzdDy3M21S)
+- Live Site URL: [Live Site ](https://abdulmujeebfmentresp1.netlify.app/)
 
 ## My process
 
@@ -47,9 +47,10 @@ I was able to consolidate my knowledge on responsive design.
 ### Useful resources
 
 - [Tailwind Labs official docs](https://tailwindcss.com/) - This helped me with interactive tailwind utilities.
+- 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Github- [AbdulMujeeb111-hub ](https://github.com/AbdulMujeeb111-hub/FMENTOR-RESP1)
 - Frontend Mentor - [@AbdulMujeeb111-hub](https://www.frontendmentor.io/profile/AbdulMujeeb111-hub)
 - Twitter - [@Joker_Fii](https://x.com/Joker_Fii?t=9PUiVNdTKfFPKVVJzDI0bg&s=09)
 
