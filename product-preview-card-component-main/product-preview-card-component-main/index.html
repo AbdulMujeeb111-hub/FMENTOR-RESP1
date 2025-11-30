@@ -23,20 +23,22 @@
         class="bg-[hsl(30,38%,92%)] grid min-w-full min-h-screen place-content-center font-[Montserrat] lg:place-content-center"
     >
         <div
-            class="bg-white w-[345px] rounded-xl flex flex-col gap-6 lg:grid lg:grid-cols-2 lg:w-1/2 lg:mx-auto "
+            class="bg-white w-[345px] rounded-xl flex flex-col gap-6 lg:grid lg:grid-cols-2 lg:w-[800px] lg:mx-auto"
         >
-            <picture>
-                <source
-                    srcset="images/image-product-mobile.jpg"
-                    media="(max-width: 758px)"
-                    class="object-cover"
-                />
-                <img
-                    src="images/image-product-desktop.jpg"
-                    alt="preview image of the perfume"
-                    class="object-cover rounded-t-xl lg:rounded-s-xl lg:rounded-t-none"
-                />
-            </picture>
+            <div class="relative">
+                <picture>
+                    <source
+                        srcset="images/image-product-mobile.jpg"
+                        media="(max-width: 758px)"
+                        class="object-cover"
+                    />
+                    <img
+                        src="images/image-product-desktop.jpg"
+                        alt="preview image of the perfume"
+                        class="object-cover rounded-t-xl lg:rounded-s-xl lg:rounded-t-none md:absolute md:inset-0 md:w-full md:h-full"
+                    />
+                </picture>
+            </div>
             <div class="mx-6 lg:pt-8">
                 <p
                     class="uppercase text-[18px] tracking-widest text-[hsl(228,12%,48%)] mb-4 lg:mb-6 lg:tracking-[5px]"
